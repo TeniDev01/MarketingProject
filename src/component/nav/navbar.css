@@ -1,0 +1,52 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    min-width: 30rem;
+    /* border: 1px solid black; */
+    background-color: #000;
+     width: 99.9%;
+    min-width:30rem ;
+    flex-wrap:wrap;
+    /* position:fixed; */
+    /* background-color: #ffff; */
+
+}
+.Navlink{
+    display: flex;
+    /* background-color: #000; */
+}
+li{
+    list-style: none;
+    margin: 1rem;
+    color:#ffff;
+    font-weight: 600;
+
+}
+.btn1{
+    margin: 1rem;
+    /* padding: rem; */
+}
+.btn2{
+    padding: 1rem;
+    border-radius: 70px;
+    background-color: #3461ff;
+    color: white;
+    border: none;
+    width: 7rem;
+
+}
+.teni{
+    margin-left: 70px;
+    margin-top: 12px;
+}
+.span-name{
+    margin: 0.5rem;
+}
+.motion{
+    color: #ffff;
+}
+.href{
+    text-decoration: none;
+    color: #ffff;
+    
+}

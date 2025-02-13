@@ -1,0 +1,56 @@
+.section4{
+    width: 99.9%;
+    /* border: 1px solid black; */
+    height: 579px;
+    display: flex;
+    justify-content: space-evenly;
+    /* margin: ; */
+
+}
+.ola{
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: 750;
+}
+.children{
+    line-height: 05px;
+    
+}
+.make{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.childre{
+line-height: 05px;
+}
+.mak{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+.pro{
+    font-size: 16px;
+}
+.usually{
+    font-size: 64px;
+}
+.br{
+    font-size: 16px;
+    line-height: 35px;
+}
+.jav{
+    line-height: 22px;
+    margin: 9rem;
+}
+.learn{
+    font-size: 19px;
+    color: #3461ff;
+}
+.myname{
+    
+    margin: 8rem;
+}
+.oga{
+    padding-left: 10px;
+}

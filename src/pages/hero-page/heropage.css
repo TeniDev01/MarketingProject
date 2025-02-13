@@ -1,0 +1,136 @@
+.sectionn1{
+    display: flex;
+    justify-content: space-around;
+    width: 99.9%;
+    /* height: 1088px; */
+    /* border: 7px solid black; */
+    /* margin-right: 3rem; */
+
+}
+.background{
+    padding: 14.7rem;
+}
+.gmail{
+    padding: 1.4rem;
+    width: 20rem;
+    border-radius: 12rem;
+    font-size: 19px;
+}
+.p{
+    /* margin-left: 90px; */
+    font-size: 19px;
+    color: #b2b2b2;
+}
+.Talk{
+  padding: 1rem;
+    border-radius: 70px;
+    background-color: #3461ff;
+    color: white;
+    border: none;
+    width: 8rem;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.Talk:hover{
+    background-color: cyan;
+    color: #000;
+
+
+
+
+
+
+
+
+
+
+
+}
+.ButtonNme{
+    gap: 20px;
+    display: flex;
+    /* justify-content: center; */
+    /* margin-left: 4.5rem; */
+}
+.rectang{
+    /* margin-right: 3rem; */
+    /* position: relative; */
+    /* right: 100px; */
+    /* top: 100px; */
+    margin-top: 9rem;
+    /* display: none; */
+    position: absolute;
+    left:900px ;
+    /* right: 50px; */
+}
+.Angle{
+    position: absolute;
+    /* display: flex; */
+    /* margin-right: 3rem; */
+}
+.ola-img{
+    position: absolute;
+    top: 250px;
+    /* border: 1px solid; */
+    padding: 3rem;
+    width: 150px;
+    background-color: #5d34ff;
+    border-radius: 5rem;
+    /* background-image:center ; */
+
+}
+.img1{
+    padding-left:25px;
+}
+.child{
+    display: flex;
+   /* border: 1px solid black; */
+    width: 100%;
+    height: 1069px;
+    margin: 4rem;
+    /* height: 189px; */
+
+
+}
+.capcut{
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+.cap2{
+    position: absolute;
+    top: 457px;
+    /* border:1px solid black; */
+    padding: 2rem;
+    left: 250px;
+    /* width:184px; */
+    height: 140px;
+    border-radius: 7rem;
+    background-color: #e0ff22;
+}
+.cap5{
+    position: absolute;
+    top: 457px;
+    /* border:1px solid black; */
+    padding: 2rem;
+    left: 430px;
+    /* width:184px; */
+    height: 140px;
+    border-radius: 7rem;
+    background-color: #ffd360;
+}
+.lol{
+    padding-top: 10px;
+}
+.direc{
+    position: absolute;
+    left: 390px;
+    width: 250px;
+    bottom:10px;
+}
+.cap1{
+    position: absolute;
+    top: 435px;
+}
+

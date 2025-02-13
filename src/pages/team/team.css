@@ -1,0 +1,41 @@
+.section8{
+    width: 99.9%;
+    height: 578px;
+    /* border: 1px solid black ; */
+    justify-content: space-evenly;
+    display: flex;
+
+}
+.section8-red{
+    display: flex;
+    gap: 30px;
+}
+.section8-red2{
+
+    display: flex;
+    gap: 30px;
+    margin: 1.4rem;
+}
+.p-text{
+    font-size: 64px;
+}
+.section8-ten{
+    font-size: 16px;
+    line-height: 30px;
+    color: #b2b2b2;
+}
+.btn9{
+    padding: 1rem;
+    width: 40%;
+    border-radius: 3rem;
+    font-size: 16px;
+    background-color: #3461ff;
+    color: #ffff;
+    border: none;
+    margin-top: 3rem;
+}
+.immg{
+    display: flex;
+    gap: 50px;
+    margin: 5rem;
+}

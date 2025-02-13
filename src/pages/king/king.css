@@ -1,0 +1,43 @@
+.section6{
+    width: 99.9%;
+    /* border: 1px solid black; */
+    height: 679px;
+    justify-content: center;
+    min-width: 40rem;
+}
+.work{
+    font-size: 44px;
+    justify-content: center;
+}
+.win{
+    justify-content: center;
+}
+.name{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    line-height: 50px;
+    margin-top: 40px;
+}
+.section5-style{
+    margin: 3rem;
+    line-height: 70rem;
+    /* width: 99.9%; */
+    /* height: 778px; */
+    /* border: 1px solid black; */
+}
+.oll{
+    line-height: 30px;
+}
+.goodluck{
+    padding: 1rem;
+
+}
+.omg{
+    justify-content: center;
+    display: flex;
+}
+.mega{
+    display: flex;
+    justify-content: center;
+}

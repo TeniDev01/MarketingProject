@@ -1,0 +1,49 @@
+.section5{
+    width: 99.9%;
+    height: 879px;
+    /* border: 1px solid black; */
+    justify-content: center;
+    display: flex;
+    gap: 4rem;
+    /* margin-top: 4rem; */
+}
+.ok{
+    /* justify-content: center; */
+    font-size: 64px;
+    
+    /* flex-direction: column; */
+}
+.money{
+    /* font-size: 30px; */
+    line-height: 07px;
+
+}
+.believe{
+    line-height: 35px;
+    font-size: 18px;
+}
+.img7{
+    /* margin: 3rem; */
+    margin-top: 3rem;
+}
+.lookman{
+    display: flex;
+    gap: 40px;
+}
+.class{
+    font-size: 34px;
+    font-weight: 7700px;
+}
+.olubode{
+    line-height: 30px;
+    font-size: 16px;
+}
+#lock{
+padding-top: 35px;
+
+}
+.mane{
+    margin: 3rem;
+    display: flex;
+    gap: 40px;
+}

@@ -1,0 +1,53 @@
+ .section9{
+    width: 99.9%;
+    height: 678px;
+    /* border: 1px solid black; */
+}
+.section9-style{
+    /* border: 1px solid black; */
+    width: 70%;
+    display: flex;
+    /* height: 70%; */
+    padding: 6rem;
+    margin-top: 5.1rem;
+    border-radius: 7rem;
+    background-color:#232038;
+    color: #fff;
+    gap: 170px;
+    
+    height:60%;
+    /* min-width: 30rem; */
+    /* justify-content: spac; */
+}
+ .style-name{
+    font-size:44px;
+} 
+.man{
+    padding: 1rem;
+    width: 30%;
+    border-radius: 4rem;
+    font-size: 20px;
+    border: none;
+    background-color: #3461ff;
+    color: white;
+    margin-top:20px
+}
+.good{
+    justify-items: center;
+}
+.line{
+    border: 1px solid black;
+    border-radius: 100%;
+    padding: 7rem;
+    display:flex;
+    /* width: 0%; */
+    /* height: 100%; */
+    background-color: #e0ff22;
+    
+}
+.img30{
+    width:70%;
+    height:60%;
+    margin-top:1.5rem
+
+}
