@@ -3,6 +3,7 @@
     /* border: 1px solid; */
     height: 400px;
     justify-content: space-around;
+    background-color: #fafafa;
 }
 .moving{
     /* flex-direction: column-reverse; */
