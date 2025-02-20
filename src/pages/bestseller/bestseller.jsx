@@ -20,7 +20,7 @@ const Bestseller =() => {
             <p className='believe'>We believe that the best way to create successful marketing<br/> campaigns is to work closely with our clients to understand<br/> their goals and challenges.</p>
         </div>
         <div className='img7'>
-            <img src={sames} alt="" />
+            <img src={sames} alt="" className='hh' />
         </div>
         </div>
         </div>

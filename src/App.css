@@ -1,6 +1,12 @@
 #root {
     
 }
+*{
+    /* margin:0px; */
+    /* padding:0px; */
+    /* box-sizing: border-box; */
+}
+
 
  body {
         width: 100%;
@@ -8,4 +14,10 @@
     }
     .map{
     justify-content: center;
+}
+@media(max-width:765px){
+    nav{
+        width:20%;
+    }
+
 }

@@ -47,6 +47,7 @@ const  Detail=() => {
                                 <img src={gng} alt="ola" width="70" className='d1'/>
                                 <span>
                                     <p>cheif Manger</p>
+                                    <h4>Callistus Anwara </h4>
                                 </span>
                                
 

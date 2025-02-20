@@ -19,18 +19,18 @@ const King =()=> {
     </div>
     <div className='name'>
         <div>
-            <a href="https://www.apple.com/ng/"><img src={frame1} alt="frame" /></a>
+            <a href="https://www.apple.com/ng/"><img src={frame1} alt="frame" className='fig' /></a>
              <p className='mega'>App</p>
            
 
         </div>
         <div>
-         <a href="https://www.coca-colacompany.com/"><img src={frame2} alt="frame" /></a>
+         <a href="https://www.coca-colacompany.com/"><img src={frame2} alt="frame" className='fig' /></a>
          <p className='mega'>Coca-cola</p>
             {/* <button className='mega'>See More</button> */}
         </div>
         <div>
-           <a href="https://www.nike.com/in/"><img src={frame3} alt="frame" /></a>
+           <a href="https://www.nike.com/in/"><img src={frame3} alt="frame"  className='fig'/></a>
            <p className='mega'>Nike</p>
 
             <div>

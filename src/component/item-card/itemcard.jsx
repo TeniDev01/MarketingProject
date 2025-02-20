@@ -20,20 +20,20 @@ const Itemcard =() => {
       </div>
       
       <div className='look'>
-        <img src={Company} alt="scan" className='ign' />
-        <img src={Company3} alt="scan"  width="100px" className='ign' />
-        <img src={name} alt="scan" className='ign' />
-        <img src={vector} alt="scan" width="70px" height="30px" className='ign' />
-        <img src={prod2} alt="prod1"  className='ign'/>
+        <a href=""><img src={Company} alt="scan" className='ign' /></a>
+     <a href=''>   <img src={Company3} alt="scan"  width="100px" className='ign' /> </a>
+       <a href=''> <img src={name} alt="scan" className='ign' /></a>
+       <a href=''>  <img src={vector} alt="scan" width="70px" height="30" className='ign' /></a>
+      <a href=''>  <img src={prod2} alt="prod1"  className='ign'/></a>
         
 
       </div>
       <div className='scan'>
-        <img src={scan1} alt="scan" className='ign'/>
-        <img src={scan2} alt="scan"className='ign' />
-        <img src={scan4} alt="scan"className='ign' />
-        <img src={scan5} alt="scan" className='ign'/>
-        <img src={scan6} alt="scan" className='ign'/>
+      <a href=''>  <img src={scan1} alt="scan" className='ign'/></a>
+      <a href=''>    <img src={scan2} alt="scan"className='ign' /></a>
+      <a href=''>  <img src={scan4} alt="scan"className='ign' /></a>
+      <a href=''>  <img src={scan5} alt="scan" className='ign'/></a>
+       <a href=''> <img src={scan6} alt="scan" className='ign'/></a>
 
       </div>
 

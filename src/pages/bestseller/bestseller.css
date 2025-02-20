@@ -2,9 +2,9 @@
     width: 99.9%;
     height: 879px;
     /* border: 1px solid black; */
-    justify-content: center;
+    justify-content: space-evenly;
     display: flex;
-    gap: 4rem;
+    /* gap: 10rem; */
     /* margin-top: 4rem; */
 }
 .ok{
@@ -46,4 +46,18 @@ padding-top: 35px;
     margin: 3rem;
     display: flex;
     gap: 40px;
+}
+@media(max-width:765px){
+    .ok{
+        font-size: 30px;
+
+    }
+    #lock{
+        width:50px
+
+    }
+    .hh{
+        width: 240px;
+        /* height: 70px; */
+    }
 }

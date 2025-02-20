@@ -20,7 +20,7 @@
     display: flex;
     gap: 130px;
     justify-content: center;
-    line-height: 12rem;
+    line-height: 9rem;
 }
 .scan{
     display: flex;
@@ -34,4 +34,22 @@
 .ign:hover{
     transform: scale(1.5) ; 
       opacity: 0.8;
+}
+@media(max-width:765px){
+    .section1{
+        width: 90%;
+        /* height: 70%; */
+    }
+     .map{
+        font-size: 26px;
+    }
+    .look{
+        gap: 50px;
+    }
+    .ign{
+        width: 70px;
+    }
+    .scan{
+        gap: 50px;
+    } 
 }

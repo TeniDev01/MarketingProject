@@ -19,7 +19,7 @@ function ContractForm() {
   };
 
   return (
-    <div>
+    <div className='makemoney'>
       <input
         type="email"
         className="gmail"

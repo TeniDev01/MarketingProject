@@ -24,7 +24,7 @@
 .mrman:hover{
     background-color: #3431ff;
     color:#fff;
-    transition: background-color 5s ease;
+    transition: background-color 07s ease;
 
 }
 .ul{
@@ -43,4 +43,57 @@
 }
 .d1{
     border-radius: 50%;
+}
+@media(max-width:320px){
+    .section10{
+        width:30.9%;
+        height:576px;
+        /* border:1px solid; */
+    
+    }
+    .client{
+        font-size:64px;
+        font-weight:400;
+        justify-content:center;
+        display: flex;
+    
+    }
+    .mrman{
+        width:413px;
+        /* border:1px solid black; */
+        height:312px;
+        padding:1rem;
+        /* display: flex; */
+        border-radius:30px;
+        background-color: #f8f9ff;
+        overflow: scroll;
+        max-width: 100%;
+
+
+    
+    }
+    .mrman:hover{
+        background-color: #3431ff;
+        color:#fff;
+        transition: background-color 07s ease;
+    
+    }
+    .ul{
+        line-height: 50px;
+        font-size: 15px;
+    }
+    .client-man{
+        display:flex;
+        justify-content: center;
+        gap:30px
+    }
+    .d2{
+        display: flex;
+        height: 70px;
+        gap: 20px;
+    }
+    .d1{
+        border-radius: 50%;
+    }
+   
 }

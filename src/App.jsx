@@ -12,6 +12,7 @@ import Blog from "./pages/blog/blog";
 import Detail from "./pages/detail/detail";
 import Footer from "./pages/footer/footer";
 import Vng from "./pages/vng/vng";
+// import VideoIntro from './component/video/VideoIntro';
 
 
 const App =() => {
@@ -19,6 +20,7 @@ const App =() => {
 
   return (
     <>
+    {/* <VideoIntro/> */}
      <Navbar/>
      <Heropage/>
      <Itemcard/>

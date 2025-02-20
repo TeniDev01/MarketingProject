@@ -41,3 +41,25 @@
     display: flex;
     justify-content: center;
 }
+@media(max-width:765px){
+    .name{
+        /* flex-direction: column; */
+        /* overflow: scroll; */
+        /* overflow-x: hidden; */
+        /* max-width: 50%; */
+        gap: 50px;
+
+    }
+    .section6{
+        width: 80%;
+    }
+    .fig{
+        width: 150px;
+    }
+    .section6{
+        width: 90%;
+        /* border: 1px solid; */
+        height: 523px;
+    }
+
+}

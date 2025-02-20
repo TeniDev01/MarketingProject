@@ -1,14 +1,15 @@
 import React from 'react';
 
 function Data () {
-    const handleBookCall =() => {
-        alert('call this number +2348128135574');
+
+    const handleBook =() => {
+        alert('call us throught  whatappnumber or our gmail address  ');
 
     }
 
     return (
-              <div>
-           <button className='btn20' onClick={handleBookCall}><h1>Contact Us</h1></button> 
+              <div className='moving'>
+           <button className='btn20' onClick={handleBook}><h1>Contact Us</h1></button> 
         </div>
     )
 }

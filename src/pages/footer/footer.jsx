@@ -26,8 +26,9 @@ const Footer=()=> {
        </div>
        <div className='icon24' >
         <p>Support Us</p>
+        <p className='hng'>Report a Bug</p>
+        
         <p>Our Commitment</p>
-        <p>Report a Bug</p>
        </div>
        <div className='icon25'>
         <p>Business Advices</p>

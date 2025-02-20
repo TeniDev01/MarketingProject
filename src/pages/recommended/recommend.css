@@ -3,8 +3,7 @@
     /* border: 1px solid black; */
     height: 579px;
     display: flex;
-    justify-content: space-evenly;
-    /* margin: ; */
+  
 
 }
 .ola{
@@ -53,4 +52,34 @@ line-height: 05px;
 }
 .oga{
     padding-left: 10px;
+}
+@media(max-width:765px){
+    .ola{
+        font-size: 30px;
+    }
+    .children{
+        line-height:22px ;
+    }
+    .childre{
+        line-height: 22px;
+    }
+    .usually{
+        font-size: 30px;
+    }
+    .myname{
+        /* flex-direction: column; */
+    }
+
+    .section4{
+        flex-direction: column;
+        line-height: 0px;
+        /* display: block; */
+        width: 70%;
+        gap: 10px;
+       
+    }
+    .jav{
+        position: absolute;
+        top: 1610px;
+    }
 }
